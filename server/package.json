@@ -1,0 +1,9 @@
+{
+  "name": "DVPT",
+  "description": "Back-end for Desert Vista Peer Tutoring",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "mssql": "^0.5.3"
+  }
+}
